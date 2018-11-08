@@ -15,7 +15,7 @@
 ## 实验参考步骤
 ### 步骤1：
 - 使用system给用户new_usr分配3个表空间：USERS,USERS02,USERS03。
-![Image text](https://github.com/WwhKiller/Oracle/blob/master/test3/1.png)
+![Image text](https://github.com/ataoxia/oracle/blob/master/test3/1.png)
 - 创建订单表(orders)与订单详表(order_details)。
  orders表：
 ```SQL
@@ -109,7 +109,7 @@ USERS03
 ### 步骤2：
 
 - 使用system 分配查询执行权限给用户
-![Image text](https://github.com/WwhKiller/Oracle/blob/master/test3/3.png)
+![Image text](https://github.com/ataoxia/oracle/blob/master/test3/3.png)
 ## 查看数据库的使用情况
 
 以下样例查看表空间的数据库文件，以及每个文件的磁盘占用情况。
