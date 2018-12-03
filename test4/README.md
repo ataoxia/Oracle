@@ -33,7 +33,7 @@
 |---|---|
 |3|muhongtao|
 ```sql
-INSERT INTO "NEW_USER0"."MYTABLE" (ID, NAME) VALUES ('3', 'yujinhong');
+INSERT INTO "NEW_USER0"."MYTABLE" (ID, NAME) VALUES ('3', 'muhongtao');
 ```
 #### 2、插入1万个订单，每个订单至少有4个详单。
 ```sql
